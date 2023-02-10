@@ -13,7 +13,7 @@ class _SearchPageState extends State<SearchPage> {
       debugShowCheckedModeBanner: false,
       home: Scaffold(
         body: Center(
-          child: Text("Search"),
+          child: Text("Search Page"),
         ),
       ),
     );

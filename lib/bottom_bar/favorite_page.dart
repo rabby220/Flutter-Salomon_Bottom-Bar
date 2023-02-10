@@ -16,7 +16,7 @@ class _FavoritePageState extends State<FavoritePage> {
       debugShowCheckedModeBanner: false,
       home: Scaffold(
         body: Center(
-          child: Text("Favorite"),
+          child: Text("Favorite page"),
         ),
       ),
     );

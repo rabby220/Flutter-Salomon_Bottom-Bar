@@ -14,7 +14,7 @@ class _HomePageState extends State<HomePage> {
       debugShowCheckedModeBanner: false,
       home: Scaffold(
         body: Center(
-          child: Text("Home"),
+          child: Text("Home Page"),
         ),
       ),
     );

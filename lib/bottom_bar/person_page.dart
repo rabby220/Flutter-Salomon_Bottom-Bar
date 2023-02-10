@@ -13,7 +13,7 @@ class _PersonPageState extends State<PersonPage> {
       debugShowCheckedModeBanner: false,
       home: Scaffold(
         body: Center(
-          child: Text("Person Page"),
+          child: Text("Person"),
         ),
       ),
     );
